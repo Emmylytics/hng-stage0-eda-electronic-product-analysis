@@ -82,3 +82,9 @@ hng-stage0-eda-electronic-product-analysis/
 └── README.md
 ```
 ---
+## 👤 Author
+
+
+**Emmanuel**<br>
+Data Analyst<br>
+SQL • Python • Power BI • Machine Learning
