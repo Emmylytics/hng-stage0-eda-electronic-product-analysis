@@ -69,15 +69,15 @@ This project demonstrates the ability to clean, analyze, and visualize data usin
 This project was completed as part of the HNG Internship Program (Data Analytics Track).
 
 ---
-hng-stage0-eda-product-analysis/
-│
-├── data/
-│   └── cleaned_dataset.xlsx
-│
+## 📂 Repository Structure
+
+```bash
+hng-stage0-eda-electronic-product-analysis/
+├── dataset/
+│   └── cleaned_electronic_data.xlsx
 ├── visuals/
 │   └── charts.png
-│
 ├── presentation/
 │   └── eda_slides.pdf
-│
-├── README.md
+└── README.md
+```
