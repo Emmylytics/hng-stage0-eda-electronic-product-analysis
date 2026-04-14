@@ -4,7 +4,6 @@
 This project is part of the HNG Data Analytics Stage 0 task, where I performed exploratory data analysis (EDA) on an electronic product dataset to uncover patterns in distribution, availability, and pricing.
 
 ---
-
 ## 🎯 Objectives
 The analysis is focused on answering the following key questions:
 * How are products distributed across different categories?
@@ -12,7 +11,6 @@ The analysis is focused on answering the following key questions:
 * How do product prices vary across categories?
   
 ---
-
 ## 📁 Dataset Overview
 The dataset contains 10,000+ product records with attributes such as:
 * `Product Name` – Name of the product
@@ -24,6 +22,7 @@ The dataset contains 10,000+ product records with attributes such as:
 * `Size` – Product size specification
 * `Color` – Product color
 * `Description` – Brief product details (often unstructured)
+
 ---
 ## 🛠️ Tools & Techniques
 * Microsoft Excel
@@ -39,6 +38,7 @@ Before analysis, the dataset was cleaned and structured:
 * Identified inconsistencies in size formatting
 * Reviewed data types across columns
 
+---
 ## 🔍 Key Insights
 * Balanced Product Distribution:
 Products are evenly distributed across categories, indicating no strong dominance.
@@ -67,3 +67,17 @@ This project demonstrates the ability to clean, analyze, and visualize data usin
 ---
 ## 🔗 Acknowledgment
 This project was completed as part of the HNG Internship Program (Data Analytics Track).
+
+---
+hng-stage0-eda-product-analysis/
+│
+├── data/
+│   └── cleaned_dataset.xlsx
+│
+├── visuals/
+│   └── charts.png
+│
+├── presentation/
+│   └── eda_slides.pdf
+│
+├── README.md
